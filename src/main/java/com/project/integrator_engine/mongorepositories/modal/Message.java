@@ -1,4 +1,4 @@
-package com.project.integrator_engine.modal;
+package com.project.integrator_engine.mongorepositories.modal;
 
 
 import java.io.Serializable;

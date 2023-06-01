@@ -1,7 +1,7 @@
 package com.project.integrator_engine.producer;
 
 
-import com.project.integrator_engine.modal.Message;
+import com.project.integrator_engine.mongorepositories.modal.Message;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.jms.core.JmsTemplate;
